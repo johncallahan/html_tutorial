@@ -6,4 +6,4 @@
 * Lesson 4: <a href="https://jsfiddle.net/rsjkb36u/" target="_blank">More Javascript</a>
 * Lesson 5: <a href="https://jsfiddle.net/fc5j8r7g/" target="_blank">Automated Javascript</a>
 * Lesson 6: <a href="https://jsfiddle.net/u93qosh6/" target="_blank">Small error</a>
-* Lesson 7: <a href="https://jsfiddle.net/ug87243c/" target="_blank">Fixed!</a>
+* Lesson 7: <a href="https://jsfiddle.net/kj7yd6ew/" target="_blank">Fixed!</a>
